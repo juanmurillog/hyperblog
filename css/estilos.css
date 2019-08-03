@@ -48,6 +48,10 @@ body{
     background: white;
     padding: 1em;
 }
+#post #equipo
+{
+    width: 80%;
+}
 #footer
 {
     background: #777;
